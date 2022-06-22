@@ -1,0 +1,1 @@
+{"name":"Local: avoidlocalmaximus","url":"c:\\Users\\shubh\\OneDrive\\Desktop\\cp\\avoidlocalmaximus.cpp","tests":[{"id":1646394772457,"input":"1\n9\n2 1 3 1 3 1 3 1 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\shubh\\OneDrive\\Desktop\\cp\\avoidlocalmaximus.cpp","group":"local","local":true}

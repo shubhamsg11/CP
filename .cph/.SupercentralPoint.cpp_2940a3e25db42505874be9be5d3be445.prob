@@ -1,0 +1,1 @@
+{"name":"Local: SupercentralPoint","url":"c:\\Users\\shubh\\OneDrive\\Desktop\\cp\\SupercentralPoint.cpp","tests":[{"id":1653861813090,"input":"5\n0 0\n0 1\n1 0\n0 -1\n-1 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\shubh\\OneDrive\\Desktop\\cp\\SupercentralPoint.cpp","group":"local","local":true}
